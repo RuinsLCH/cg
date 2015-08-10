@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_title">NCHU</string>
+
+    <string name="pick_title">NCHU</string>
+    <string name="pick_text">智慧型行動裝置使用內容關鍵字檢索與探勘研究於適地適時地理活動推薦系統</string>
+    <string name="pick_action">尋找附近推薦地點</string>
+
+    <string name="detail_text"> 時間: %1$s\n距離: %2$skm\n電話: %3$s\n\n%4$s</string>
+
+    <string name="empty"></string>
+</resources>

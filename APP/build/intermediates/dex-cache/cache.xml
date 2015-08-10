@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/awin/.gradle/caches/modules-2/files-2.1/se.walkercrou/google-places-api-java/2.1.2/105bc7ab93c5c9660c1108bbad784857622f47f8/google-places-api-java-2.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="105bc7ab93c5c9660c1108bbad784857622f47f8">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/google-places-api-java-2.1.2-27d69875f9d90c1a6338f1f18ff4891e8a2674b0.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-3b479806de38f325fa2016dd241cb36ed4c251a5.jar" />
+    </item>
+    <item
+        jar="/Users/awin/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/commons-io-2.4-253f38e0da93dcb23e31863a7693386f3213649c.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-cedb54627b5227e9cd163a8fe3d076d969425f43.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-d2ad91c1dc824032dcff454bb395333160ded325.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-824e9f25cf86a79091e9027eb6779f76b178d7d2.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-4acaac3d4ae463c83e9ad732633878f12a43e413.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-e5d1de0c1a50a993efa900a213892c1b20b23278.jar" />
+    </item>
+    <item
+        jar="/Users/awin/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e031bb61df09069aeb2bffb4019e7a5034a4ee0">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/junit-4.11-5cb30ff1ba9255e1fcf61a94f3cb7d3ff7188281.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-58dca254d733b7dd3a80db5ec2b68b15e52db312.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-d51fb00b9ae05d84ba4eb8a210e1fd3d5de67308.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-8ff24827b12599998d40a2545b8a13349dc29fe4.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-8d462496f3801e682bf44fc22be6298e5cdb1de4.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-91f7c67ef5e5991516270a409fa6c2d708de1e10.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-1c830a13810a102973f2e618b8013025e8ba333e.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.8.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="332c3fb3a17fa7a66f84c701047aac964653fdf6">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-719ec9ee77f6a082025b8170c8a6a54ef4cc8557.jar" />
+    </item>
+    <item
+        jar="/Users/awin/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/hamcrest-core-1.3-88082b9d13d38570425441c8e00f4016a1d445f4.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ff3ec282cf8f3d36d5ff2a97ee29e4990d26d131.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d1c91b43f25c86996d4d71f81001b04f80abbd50.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d1c91b43f25c86996d4d71f81001b04f80abbd50.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-2dfc5048ac4c33450e86c116ba393afb9fea683f.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-bfce5dd06d7fcc4b6f40373d4b3ea65750ce3262.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-feccfab7ffdaca66787d7452775a083476dc6182.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-9beff55c3d920f190b9a260f3e3a2299177c41d8.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-feccfab7ffdaca66787d7452775a083476dc6182.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-98a3f79fadfd9fb1ab21e7f4cf8746a7703b2036.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-c75b819813b8652e02b71cba71499d69272e5f56.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-ed835b96bd2ccd93ada3cdf9648d87d22faed737.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-2c4fe1fdfdbfe0596cc33a8daf52bb02b1d2f013.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-49ba508d7f2485e21d3e501c68d26c684f5e78ca.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-b2e3d3793c0775cfad13c6943f36da60159c8966.jar" />
+    </item>
+    <item
+        jar="/Users/awin/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1-9281f1b9f6cbb6574d71dee2d8fc0c1d78f23576.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-d5222c5aac9b9d466cd0dea64352f9db82394640.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-b76b5eac69aa7503539df1c954a9fbe927e33312.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-c30bd42682f36d81f884729871e19f43363eda8b.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-fef0974ad9163f0a87abfc94f5a68045fc046a3d.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-97bd9e1bfa836ad3ddbc54df734e75c01268f04c.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/classes-c30bd42682f36d81f884729871e19f43363eda8b.jar" />
+    </item>
+    <item
+        jar="/Users/awin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/awin/Desktop/斷金計畫APP/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-843112594b5ab1e2c876fb546f3d07cf1a699474.jar" />
+    </item>
+
+</items>
