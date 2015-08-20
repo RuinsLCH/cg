@@ -93,8 +93,10 @@ public class Access extends AccessibilityService {
     	{
     		//把句子POST到幫忙段詞的網站
     		Log.v("eee", "原本:"+getEventText(event));
+    		Log.v("Time:", sdf.format(current));
     		new MyThread(getEventText(event),sdf.format(current)).start();
-    	
+    		
+    		
     	}
     	
     	else if(getEventType(event).equals("TYPE_VIEW_TEXT_SELECTION_CHANGED"))
@@ -155,14 +157,40 @@ public class Access extends AccessibilityService {
 
         @Override
         public void run() {
-        	FindKeyWord(Text,currentTime);
+        	FindKeyWordByHashSet(Text,currentTime);
+        	
         }
     }
-    
-    private void FindKeyWord(String Text,String currentTime){
-		if(Text==null||Text.length()<=1)
+    private void FindKeyWordByHashSet(String Text,String currentTime)
+    {
+    	if(Text==null||Text.length()<=1)
+		{
 			return;
+		}
+    	int index=14;
+    	if(Text.length()<14)
+    		index=Text.length();
     	SQLiteDatabase db = dbhelper.getReadableDatabase();
+    	int cutlocation=1;
+    	for(int i=index;i>=1;i--)
+    	{
+    		if(MainActivity.dictionary.contains(Text.substring(0, i)))
+    		{
+    			db.execSQL("insert into favorite(time, word) values('"+currentTime+"','" +Text.substring(0, i)+"')");
+    			cutlocation=i;
+    			break;
+    		}
+    	}
+    	Text=Text.substring(cutlocation);
+    	FindKeyWordByHashSet(Text,currentTime);
+    }
+   /* private void FindKeyWord(String Text,String currentTime){
+		if(Text==null||Text.length()<=1)
+		{
+			Log.v("Time:", "結束");
+			return;
+		}
+		SQLiteDatabase db = dbhelper.getReadableDatabase();
     	Log.v("findyou", "第一個字"+Text.substring(0, 2));
 		Cursor cursor = db.rawQuery("select * from dictionary where word like ? ", new String[]{Text.substring(0, 2)+"%"});
 		
@@ -192,18 +220,12 @@ public class Access extends AccessibilityService {
 		cursor.close();
 		//db.close();
 		FindKeyWord(Text,currentTime);
-	}
+		//開始10:49:31.881
+		//結束10:51:05.551
+		
+	}*/
     
     
-    private Cursor getCursor(){
-    	SQLiteDatabase db = dbhelper.getReadableDatabase();
-    	String[] columns = {_ID, DWord };
-    	
-    	Cursor cursor = db.query("dictionary", columns, null, null, null, null, null);
-    	//startManagingCursor(cursor);
-    	
-    	return cursor;
-    }
     private Cursor getfavor(){
     	SQLiteDatabase db = dbhelper.getReadableDatabase();
     	Cursor cursor = db.rawQuery("SELECT COUNT(*) as sum, word FROM favorite GROUP BY word ORDER BY sum DESC LIMIT 10 ", null);

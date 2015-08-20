@@ -5,7 +5,8 @@ import android.util.Log;
 
 import static com.wordpress.laaptu.DbConstants.DWord;
 
-import java.io.*; 
+import java.io.*;
+import java.util.HashSet;
 
 import android.app.Activity;
 import android.content.ContentValues;
@@ -19,7 +20,7 @@ import android.widget.Button;
 public class MainActivity extends Activity {
 	
 	private Button buttonAssist,buttonRaw,button04;
-
+	static HashSet<String> dictionary;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -28,6 +29,7 @@ public class MainActivity extends Activity {
 		buttonAssist = (Button)findViewById(R.id.Button01);
 		buttonRaw = (Button)findViewById(R.id.Button02);
 		button04 = (Button)findViewById(R.id.Button04);
+		dictionary = new HashSet<String>();
 		
 		buttonRaw.setOnClickListener(new Button.OnClickListener(){ 
             @Override
@@ -63,23 +65,16 @@ public class MainActivity extends Activity {
 				if (is != null){
 			    	   BufferedReader BufferedReaderd = new BufferedReader (new InputStreamReader(is, "UTF-8"));
 			    	   //INSERT IGNORE INTO `table_1` (`name`) SELECT `name` FROM `table_2`;
-			    	   DBHelper dbhelper = new DBHelper(this);
-			    	   SQLiteDatabase db = dbhelper.getWritableDatabase();
-			    	   String sql = "INSERT OR IGNORE INTO dictionary (word) VALUES (?)";
-				       db.beginTransaction();
-				       SQLiteStatement stmt = db.compileStatement(sql);
-			    	      
+			    	   //int max=0;
 			    	   while(BufferedReaderd.ready()) {
 			    		   
 			    		  String tmp=BufferedReaderd.readLine();
+			    		 // if(max<tmp.length())
+			    		//	  max=tmp.length();
 			    		  Log.v("xdxdx", String.valueOf(i++)+tmp);
-				          stmt.bindString(1, tmp);
-			              stmt.execute();
-			              stmt.clearBindings();
-
+			              dictionary.add(tmp);
 			    	   }
-			    	   db.setTransactionSuccessful();
-				       db.endTransaction();
+			    	  // Log.v("Time:", String.valueOf(max));
 			    	   Log.v("xdxdx", "´¡§¹¤F song");
 			    	   }
 			} catch (IOException e) {
